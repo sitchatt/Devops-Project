@@ -1,7 +1,7 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/3.8.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/3.8.6 http://maven.apache.org/maven-v3_8_6.xsd">
 
-  <modelVersion>4.0.0</modelVersion> 
+  <modelVersion>3.8.6</modelVersion> 
 
   <groupId>com.example.maven-project</groupId>
   <artifactId>maven-project</artifactId>
